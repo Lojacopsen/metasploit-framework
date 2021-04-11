@@ -1,0 +1,12 @@
+FIRST START
+
+metasploit is very easy to use, once you have downloaded the archive just write "msfconsole"
+on the console and start using it, for
+a further guide you can consult
+https://www.offensive-security.com/metasploit-unleashed/exploits/
+
+UPDATING
+
+to update metasploit, you should delete the old repository and install 
+the current one, if you want I added a .bat file for windows, which clones the repository automatically, the old repository 
+however, needs to be deleted manually.
