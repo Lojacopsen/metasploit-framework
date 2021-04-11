@@ -14,6 +14,7 @@ License: BSD-3-clause
 #
 # Last updated: 2013-Nov-04
 #
+#this repository is forked and modded by the user @lojacopsen on github
 
 Files: data/exploits/mysql/lib_mysqludf_sys_*.so
 Copyright: 2007  Roland Bouman
