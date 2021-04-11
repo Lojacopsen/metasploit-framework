@@ -4,3 +4,4 @@ npm install git
 start git clone https://github.com/rapid7/metasploit-framework
 cls
 echo msfconsole
+rem require npm on cmd/windows powershell
