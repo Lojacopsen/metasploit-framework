@@ -1,5 +1,5 @@
 @echo off
-start npm install git
+start npm install --save npm-git-install
 start git clone https://github.com/rapid7/metasploit-framework
 cls
 echo "updated!"
