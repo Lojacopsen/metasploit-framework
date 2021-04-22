@@ -1,4 +1,6 @@
 @echo off
+echo i will be install git, if you already have it, dont worry. oke?
+pause
 start npm install --save npm-git-install
 ping localhost -n 2 >null
 start git pull https://github.com/Lojacopsen/metasploit-framework
