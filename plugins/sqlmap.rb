@@ -288,7 +288,7 @@ module Msf
     end
 
     def desc
-      'sqlmap plugin for Metasploit'
+      'sqlmap plugins for Metasploit'
     end
   end
 end
